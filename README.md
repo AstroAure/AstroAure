@@ -6,7 +6,7 @@ I'm currently stuyding engineering at [École polytechnique](https://programmes.
 
 For the next few months, as a trainee, I'm working at the [Cosmic DAWN Center](https://cosmicdawn.dk/) 🇩🇰 on implementing SourceXtractor++ to perform model fitting and morphology measurements for galaxies on the JWST public images available through the [DAWN JWST Archive](https://dawn-cph.github.io/dja/).
 
-On my GitHub page, I share different projects - academic, work-related or just personal ones - that may be useful to other people ! Feel free to use any of it for any purposes (preferably open-source, scientific or educational). All of my code is copyrighted under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) 😉
+On my GitHub page, I share different projects - academic, work-related or just personal ones - that may be useful to other people ! Feel free to use any of it for any purposes (preferably open-source, scientific or educational). All of my code is copyrighted under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/deed.en) if not explicited otherwise 😉
 
 I'm a big fan of collaborative engineering or scientific projects, so if you would like to work with me on something, don't hesitate to reach me 📫
 
