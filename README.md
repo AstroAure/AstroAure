@@ -10,7 +10,7 @@ On my GitHub page, I share different projects - academic, work-related or just p
 
 I'm a big fan of collaborative engineering or scientific projects, so if you would like to work with me on something, don't hesitate to reach me 📫
 
-* Email 📧 : aurelien [dot] genin [dot] 2021 [at] polytechnique [dot] org
+* Email 📧 : aurelien [dot] genin [at] polytechnique [dot] org
 * Twitter 🐦 : [@Astro_Aure](https://twitter.com/astro_aure)
 * BlueSky 🦋 : [@astroaure.bsky.social](https://bsky.app/profile/astroaure.bsky.social)
 * Telescopius 🔭 : [AstroAure](https://telescopius.com/profile/astroaure)
