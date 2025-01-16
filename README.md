@@ -12,6 +12,5 @@ I'm a big fan of collaborative engineering or scientific projects, so if you wou
 
 * Email 📧 : aurelien [dot] genin [at] polytechnique [dot] org
 * Website : https://astroaure.github.io/
-* Twitter 🐦 : [@Astro_Aure](https://twitter.com/astro_aure)
 * BlueSky 🦋 : [@astroaure.bsky.social](https://bsky.app/profile/astroaure.bsky.social)
 * Telescopius 🔭 : [AstroAure](https://telescopius.com/profile/astroaure)
